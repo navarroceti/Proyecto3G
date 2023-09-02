@@ -1,13 +1,19 @@
 #include <iostream>
+#include <Mascota.hpp>
 
 int main(int argc, char const *argv[])
 {
-    std::cout<<"Mensaje"<<::endl;
+    std::cout<<"Juego de mascotas"<<std::endl;
 
-    int a = 2;
-    for (int nombre = 0; nombre < 10; nombre++)
-    {
-    }
+    Mascota m1,m2,m3;
+    
+    m1.EstablecerNombre("Firulais");
+    m2.EstablecerNombre("Puchungis");
+    m3.EstablecerNombre("Ramonsito");
+
+    m1.DecirNombre();
+    m2.DecirNombre();
+    m3.DecirNombre();
 
     return 0;
 }
