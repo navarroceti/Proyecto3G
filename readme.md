@@ -8,6 +8,8 @@ Descripcion de mi asombroso proyecto
 ## Descripcion
 Mascotas es un juego donde entrenas mascotas para pelear en el palenque.
 
+![](https://assets.pokemon.com/assets/cms2/img/pokedex/full/318.png)
+
 ![](/images/pelea1.jpeg)
 
 ![](/images/pelea2.jpeg)
