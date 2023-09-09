@@ -1,0 +1,11 @@
+@startuml Diagrama
+
+class Mascota{
+    + EstablecerNombre()
+}
+
+class Entrenador{
+    + AsignarNombre()
+}
+
+@enduml
